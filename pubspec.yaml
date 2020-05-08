@@ -25,6 +25,7 @@ dependencies:
   cupertino_icons: ^0.1.2
   english_words: ^3.1.0
   table_sticky_headers: ^1.1.2
+  sliding_up_panel: ^1.0.2
 
 dev_dependencies:
   flutter_test:
